@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alex0715
+- 👋 Hi, I’m Chirantan Bose, @Alex0715
 - 👀 I’m interested in ... web development and ethical hacking.
 - 🌱 I’m currently learning ... advanced java , will start with my networking courses and finally ceh
 - 💞️ I’m looking to collaborate on ...a bright place and a good job.
